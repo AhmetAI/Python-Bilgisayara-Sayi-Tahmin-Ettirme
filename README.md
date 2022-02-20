@@ -2,3 +2,5 @@ Alışılagelmiş tahmin ettirme oyunlarından yanı sıra bu sefer bilgisayar b
 
 Gerekli Kütüphaneler :
 - random
+- multithreading
+- import time
